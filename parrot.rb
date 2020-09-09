@@ -1,2 +1,3 @@
 def parrot
   "Squawk!"
+end
