@@ -3,4 +3,4 @@ def parrot
   "Squawk!"
 end
 
-parrot("Squawk!")
+parrot ("Squawk!")
