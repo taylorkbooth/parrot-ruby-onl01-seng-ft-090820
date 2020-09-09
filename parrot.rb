@@ -1,5 +1,5 @@
 def parrot
-  puts "Squawk!.reverse"
+  puts "Squawk!"
   "Squawk!"
 end
 
